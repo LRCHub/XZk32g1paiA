@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ぽ",
+  "base_artist": "尾丸ポルカ",
+  "createdAt": "2026-03-27T05:04:12.115378Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぽ",
+      "artist": "尾丸ポルカ",
+      "has_synced": true,
+      "path": "select/01_ぽ_尾丸ポルカ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぽ、ぽろぽろり",
+      "artist": "キグルミ",
+      "has_synced": false,
+      "path": "select/02_ぽ、ぽろぽろり_キグルミ.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tr.4B つよつよち○ぽ（自称）にお仕置きオナホコキ",
+      "artist": "もぷもぷ実験室",
+      "has_synced": true,
+      "path": "select/03_Tr.4B_つよつよち○ぽ(自称)にお仕置きオナホコキ_もぷもぷ実験室.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トラック2_おっきいおち○ぽ、い～っぱいキレイにしてあげるねっ♡",
+      "artist": "制服days(旧:甘声)",
+      "has_synced": true,
+      "path": "select/04_トラック2_おっきいおち○ぽ、い~っぱいキレイにしてあげるねっ♡_制服days(旧_甘声).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トラック7_元気な朝勃ちおち○ぽ、アタシのおま○こでヌキヌキしてあげるねっ！",
+      "artist": "制服days(旧:甘声)",
+      "has_synced": true,
+      "path": "select/05_トラック7_元気な朝勃ちおち○ぽ、アタシのおま○こでヌキヌキしてあげるねっ!_制服days(旧_甘声).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "【２】「ご主人様のおち●ぽ、お口でお掃除しますね…」",
+      "artist": "脳とりがー",
+      "has_synced": true,
+      "path": "select/06_【2】「ご主人様のおち●ぽ、お口でお掃除しますね...」_脳とりがー.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ぽ (Paused)",
+      "artist": "尾丸ポルカ",
+      "has_synced": true,
+      "path": "select/07_ぽ_(Paused)_尾丸ポルカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぽ",
+      "artist": "尾丸ポルカ",
+      "has_synced": false,
+      "path": "select/pl_01_ぽ_尾丸ポルカ.txt"
+    }
+  ]
+}
